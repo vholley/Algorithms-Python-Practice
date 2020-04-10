@@ -259,7 +259,7 @@ def print_table(prop, n_var):
     for row in table_list:
         print(row)
 
-
+# TEST CASES
 if __name__ == '__main__':
 
     values = [1]
